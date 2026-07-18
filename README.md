@@ -1,5 +1,29 @@
 # ChenAi.github.io
 
-My personal website, hosted on GitHub Pages.
+My personal blog powered by [Hugo](https://gohugo.io/) + [GitHub Pages](https://pages.github.com/).
 
-🌐 **[chenai.github.io](https://chenai.github.io)**
+🌐 **[ichenai.github.io](https://ichenai.github.io)** (after rename)
+
+## Tech Stack
+
+- **SSG**: Hugo with PaperMod theme
+- **Hosting**: GitHub Pages (gh-pages branch)
+- **CI/CD**: GitHub Actions — auto deploy on push to main
+- **Content**: Markdown posts under `content/posts/`
+
+## Development
+
+```bash
+# Install Hugo
+# https://gohugo.io/installation/
+
+# Clone
+git clone https://github.com/y318600/ChenAi.github.io.git
+cd ChenAi.github.io
+
+# Start dev server
+hugo server -D
+
+# Build
+hugo
+```
