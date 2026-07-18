@@ -2,7 +2,7 @@
 
 My personal blog powered by [Hugo](https://gohugo.io/) + [GitHub Pages](https://pages.github.com/).
 
-🌐 **[ichenai.github.io](https://ichenai.github.io)** (after rename)
+🌐 **[ichenai.github.io](https://ichenai.github.io)**
 
 ## Tech Stack
 
@@ -18,7 +18,7 @@ My personal blog powered by [Hugo](https://gohugo.io/) + [GitHub Pages](https://
 # https://gohugo.io/installation/
 
 # Clone
-git clone https://github.com/y318600/ChenAi.github.io.git
+git clone https://github.com/iChenAi/ChenAi.github.io.git
 cd ChenAi.github.io
 
 # Start dev server
