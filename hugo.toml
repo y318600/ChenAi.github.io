@@ -22,7 +22,7 @@ theme = "papermod"
 
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/y318600"
+    url = "https://github.com/iChenAi"
 
 [menu]
   [[menu.main]]
